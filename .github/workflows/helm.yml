@@ -1,4 +1,3 @@
-name: package helm
 name: Release Charts
 
 on:
